@@ -25,7 +25,29 @@ class Solution:
         return max_count
 
 
+"""Okay
+March 12 2026
 
+I did solve it on my own , but its not optimal 
+and I solved it after correcting multiple times
+
+Ideal Case - solving 
+
+key concepts:
+Duplicate Check while traversing towards right
+
+Two crucial concepts involved :
+Duplicate check while traversing right , Duplicate check while traversing left 
+
+you get really confused for i == i+1 and i-1 == i -> practice this a bit
+
+
+March 12 2026 :
+
+With great help , I came up 
+Important Observations - how while inside for loop does not make it O(n2)  Automatically
+
+"""
 
 
 
