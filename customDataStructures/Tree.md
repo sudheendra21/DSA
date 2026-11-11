@@ -21,6 +21,24 @@ Tree problems can be categorized into 2 ways broadly:
  But on a high level , we assume the function gets the task done and call the function for left and right and we get the desired result
  We need to define the return value of the function correctly , clearly
 
+ So problem decomposition involves post order position work as we assume that left and right have done the task and now we are doing the task for the current node
+ And problem decomposition is of 3 types :
+ 1) Aggregation (integers)
+ 2) Inspector (Boolean)
+ 3) Tracker (Tuples/Objects)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Parallels between DFS,Backtracking and Dp with Tree problems :
  Traversal approach is akin to backtracking , Problem Decomposition is akin to dynamic programming 
 
